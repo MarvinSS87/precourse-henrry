@@ -1,2 +1,1 @@
-# precourse-henrry
-este es un repositorio de prueba modulo N2
+este proyecto es una prueba de como crear un repositorio y clonarlo de git hub a mi pc
